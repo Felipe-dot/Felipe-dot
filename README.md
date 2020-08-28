@@ -13,22 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+![Developer](https://github.com/Felipe-dot/Felipe-dot/blob/master/developer.gif)
 
-# Luis Felipe
+## Hi there , My name is Luis Felipe 👋 👋
+- I am passionate about the world of technologies and programming
+- I am currently a Computer Science student👨‍💻 
+- I am to become a FullStack Developer :computer:
 
-## Hi there 👋 👋
-- Sou apaixonado pelo mundo das tecnologias e da programação
-- Atualmente sou um estudante de Ciência da Computação👨‍💻 
-- Tenho como objetivo me tornar um FullStack Developer :computer:
-
- :rocket:  &nbsp; Estou estudando na **UESPI**
+ <br/>  🌱 I’m currently learning  :dart: Flutter, Js, Html and Css
+ <br/> 💬  &nbsp; About me: I like technologies, music, games, anime and series on Netflix
+ <br/> 📫 How to reach me:
  
- <br/> :computer: &nbsp; Estou aprendendo tecnologias como :dart: Flutter, Js, Html e Css
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias,músicas, games, animes e seriados na Netflix
- <br/> :email: &nbsp; Entre em contato comigo: 
-[![Linkedin Badge](https://img.shields.io/badge/-luis-felipe-de-azevedo-melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-de-azevedo-melo-7bb1851b3/)](https://www.linkedin.com/in/luis-felipe-de-azevedo-melo-7bb1851b3/) 
-
-[![Gmail Badge](https://img.shields.io/badge/-felipeluis610@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeluis610@gmail.com)](mailto:felipeluis610@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-luis-felipe-de-azevedo-melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-de-azevedo-melo-7bb1851b3/)](https://www.linkedin.com/in/luis-felipe-de-azevedo-melo-7bb1851b3/) [![Gmail Badge](https://img.shields.io/badge/-felipeluis610@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeluis610@gmail.com)](mailto:felipeluis610@gmail.com)
 
 

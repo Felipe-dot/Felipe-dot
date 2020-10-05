@@ -13,15 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Developer](https://github.com/Felipe-dot/Felipe-dot/blob/master/developer.gif)
-
 ## Hi there , My name is Luis Felipe 👋 👋
 - I am passionate about the world of technologies and programming
 - I am currently a Computer Science student👨‍💻 
 - I am to become a FullStack Developer :computer:
 
  <br/>  🌱 I’m currently learning  :dart: Flutter, Js, Html and Css
- <br/> 💬  &nbsp; About me: I like technologies, music, games, anime and series on Netflix
+ <br/> 💬  &nbsp; About me: I like technologies, music, games, anime and series
  <br/> 📫 How to reach me:
  
 [![Linkedin Badge](https://img.shields.io/badge/-luis-felipe-de-azevedo-melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-de-azevedo-melo-7bb1851b3/)](https://www.linkedin.com/in/luis-felipe-de-azevedo-melo-7bb1851b3/) [![Gmail Badge](https://img.shields.io/badge/-felipeluis610@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeluis610@gmail.com)](mailto:felipeluis610@gmail.com)

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-- 👩🏻‍💻 I'm currently on the 4th period of my computer science college;
+- 👨‍💻 I'm currently on the 4th period of my computer science college;
 
 - 🌱 I’m currently learning Web development; 
 

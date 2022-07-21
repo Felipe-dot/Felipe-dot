@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, there <img width="6%"  src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" alt="Programmer guy" />
 
-<img align="right" width="60%" src="https://github.com/Felipe-dot/Felipe-dot/blob/master/developer.gif?raw=true" alt="Code Guy" />
+<img align="right" width="40%" src="https://github.com/Felipe-dot/Felipe-dot/blob/master/developer.gif?raw=true" alt="Code Guy" />
 
 ### Welcome to my profile!
 <p>

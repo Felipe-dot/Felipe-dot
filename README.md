@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-- 👨‍💻 I'm currently on the 6th period of my computer science college;
+- 👨‍💻 I'm currently on the 8th period of my computer science college;
 
 - 🌱 I’m currently learning Web development; 
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <br/>
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Felipe-dot">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-dot&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>

@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <p>
   I'm  Felipe, Computer Science Student From
   <b>Brazil</b>
-  <img width="16" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/291/flag-brazil_1f1e7-1f1f7.png" alt="Brazil" />
+  🇧🇷
 </p>
 
 ### About me
 
 - 👨‍💻 I'm currently on the 8th period of my computer science college;
 
-- 🌱 I’m currently learning Web development; 
+- 🌱 I’m currently learning Web Development; 
 
 - 💬 Ask me about anything, I'm glad to help you;
 

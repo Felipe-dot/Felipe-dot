@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
 ### Welcome to my profile!
 <p>
-  I'm  Felipe, Computer Science Student From
+  I'm  Felipe, Computer Science From
   <b>Brazil</b>
   🇧🇷
 </p>
 
 ### About me
-
-- 👨‍💻 I'm currently on the 8th period of my computer science college;
 
 - 🌱 I’m currently learning Web Development; 
 

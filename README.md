@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-- 🌱 I’m currently learning Web Development; 
+- 🌱 I’m Full Stack Development; 
 
 - 💬 Ask me about anything, I'm glad to help you;
 

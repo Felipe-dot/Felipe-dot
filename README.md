@@ -64,6 +64,5 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/Felipe-dot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-dot&layout=compact&langs_count=7&theme=tokyonight"/>
+<p>  <img src="https://streak-stats.demolab.com?user=felipe-dot&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /></p>
 </div>
